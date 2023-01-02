@@ -6,7 +6,7 @@ public class class01 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hey this is a git class");
-		
+		System.out.println("This is the change in my project");
 	}
 
 }
